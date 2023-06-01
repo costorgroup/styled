@@ -1,0 +1,7 @@
+src
+tsconfig.json
+# tslint.json
+.prettierrc
+rollup.config.js
+jest.config.js
+./**/*.test.ts
